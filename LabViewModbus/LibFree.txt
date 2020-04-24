@@ -1,1 +1,0 @@
-http://ftp.icpdas.com/pub/cd/6000cd/napdos/et7000_et7200/document/application/labview/labview_modbus_eng.pdf
