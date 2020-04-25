@@ -1,10 +1,13 @@
 B1. Cài đặt modbus TCP Slaver trên Coolmay HMI
 ------------
 
+
 ![Install Modbus Slaver](Image/ModbusTCPSlaver/1.png)
+
 
 B2. Tạo Function KEY HMI để thay đổi IP address.
 ------
+
 
 ![Install Modbus Slaver](Image/ModbusTCPSlaver/2.png)
 
@@ -19,7 +22,7 @@ B2. Tạo Function KEY HMI để thay đổi IP address.
 
 - Khi khởi động lại bằng phần mềm thì IP sẽ không hoạt động.
 
-**Chú ý **
+**Chú ý**
 -------
 
 - Test với Ethernet thì khi khời động lại HMI phải chờ khoảng 120s trở lên thì module ethernet trên HMI mới hoạt động.
