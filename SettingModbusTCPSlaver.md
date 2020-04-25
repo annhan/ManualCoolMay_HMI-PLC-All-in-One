@@ -9,4 +9,9 @@ B2. Tạo Function KEY HMI để thay đổi IP address.
 Vậy là chúng ta đã cài đặt ModbusTCP Slaver thành công và port mặc định là 502
 
 
-**Chú ý sau khi thay đổi, mỗi lần khởi động lại HMI cần khoảng 1phuts 30 s thì Ethernet trên HMI mới bắt đầu dùng được.**
+**Error**
+--------
+ 
+- Chú ý sau khi thay đổi, mỗi lần khởi động lại HMI cần khoảng 1phuts 30 s thì Ethernet trên HMI mới bắt đầu dùng được.
+
+- Khi khởi động lại bằng phần mềm thì IP sẽ không hoạt động.
